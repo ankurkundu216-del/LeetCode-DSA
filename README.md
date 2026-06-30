@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
