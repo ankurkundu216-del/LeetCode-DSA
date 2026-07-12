@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0175-combine-two-tables) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
