@@ -32,9 +32,14 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0223-rectangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0223-rectangle-area) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Number Theory
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2523-closest-prime-numbers-in-range) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
