@@ -32,4 +32,9 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2523-closest-prime-numbers-in-range) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
