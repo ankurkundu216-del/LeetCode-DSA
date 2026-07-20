@@ -11,6 +11,7 @@
 | [0198-house-robber](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -122,4 +123,12 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
