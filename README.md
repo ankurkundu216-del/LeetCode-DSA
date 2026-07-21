@@ -26,6 +26,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
