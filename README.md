@@ -10,6 +10,7 @@
 | [0149-max-points-on-a-line](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -118,6 +121,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -156,4 +160,16 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
