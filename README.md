@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
