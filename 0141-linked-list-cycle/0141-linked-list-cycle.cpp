@@ -13,14 +13,15 @@ public:
     bool hasCycle(ListNode *head) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        unordered_set<ListNode*> visited;
-        ListNode* curr = head;
-        while(curr != nullptr){
-            if(visited.count(curr)){
+        ListNode* slow = head;
+        ListNode* fast = head;
+        //Traverse untill fast and fast->next are valid
+        while(fast != nullptr && fast->next != nullptr){
+            slow = slow->next;//1step
+            fast = fast->next->next;//2step
+            if(slow==fast){
                 return true;
             }
-            visited.insert(curr);
-            curr = curr->next;
         }
         return false;
     }
