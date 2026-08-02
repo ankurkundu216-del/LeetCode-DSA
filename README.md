@@ -18,6 +18,7 @@
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
