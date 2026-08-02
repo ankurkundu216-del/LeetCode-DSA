@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
@@ -62,6 +63,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0877-stone-game) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -82,6 +84,7 @@
 | [0042-trapping-rain-water](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
