@@ -105,6 +105,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0481-magical-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Game Theory
 |  |
 | ------- |
