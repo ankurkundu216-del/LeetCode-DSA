@@ -44,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0481-magical-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -100,6 +101,7 @@
 | [0141-linked-list-cycle](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0481-magical-string) |
 ## Stack
 |  |
