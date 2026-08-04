@@ -207,6 +207,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Game Theory
 |  |
@@ -221,4 +222,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1406-stone-game-iii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
