@@ -17,6 +17,7 @@
 | [0198-house-robber](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [0724-find-pivot-index](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
