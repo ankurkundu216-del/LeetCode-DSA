@@ -1,0 +1,25 @@
+class Solution {
+    vector<int> t;
+    bool solve(int n) {
+        if (n == 0)
+            return false;
+
+        if (t[n] != -1) {
+            return t[n] == 1 ? true : false;
+        }
+
+        for (int k = 1; k*k <= n; k++) {
+            if (solve(n - k*k) == false) { // call for bob->Bob lost
+                return t[n]=1;                 // Alice won the game
+            }
+        }
+        return t[n] =0; // Alice could never win. Lost it
+    }
+
+public:
+    bool winnerSquareGame(int n) {
+
+        t.assign(n + 1, -1);
+        return solve(n);
+    }
+};
