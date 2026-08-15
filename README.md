@@ -30,6 +30,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [1406-stone-game-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | [0724-find-pivot-index](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1140-stone-game-ii) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Tree
 |  |
 | ------- |
