@@ -95,6 +95,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
