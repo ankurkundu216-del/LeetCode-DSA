@@ -47,6 +47,7 @@
 | [0141-linked-list-cycle](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0149-max-points-on-a-line) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -68,6 +69,7 @@
 | [0481-magical-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0481-magical-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -177,6 +179,7 @@
 | [0015-3sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -214,6 +217,7 @@
 | [0011-container-with-most-water](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2029-stone-game-ix](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2600-k-items-with-the-maximum-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2600-k-items-with-the-maximum-sum) |
