@@ -100,6 +100,7 @@
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1563-stone-game-v) |
@@ -123,6 +124,7 @@
 | [0149-max-points-on-a-line](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
