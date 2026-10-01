@@ -67,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -166,6 +167,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -347,4 +349,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
