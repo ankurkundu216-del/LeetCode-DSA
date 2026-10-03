@@ -12,28 +12,44 @@
 using namespace std;
 class Solution {
 public:
-    
+    vector<string> result;
+
+    bool isValid(string& curr) {
+        int cnt=0;
+        for(char ch : curr) {
+            if(ch == '('){
+                cnt++;
+            }else {
+                cnt--;
+            }
+            if(cnt <0) return 0;
+        }
+        return cnt==0;
+    }
+
+    void solve(string& curr, int n) {
+        //Base Case
+        if(curr.length() == 2*n) {
+            if(isValid(curr)) {
+                result.push_back(curr);
+            }
+            return;
+        }
+        curr.push_back('(');
+        solve(curr,n);
+        curr.pop_back();
+
+        curr.push_back(')');
+        solve(curr,n);
+        curr.pop_back();
+    }
     vector<string> generateParenthesis(int n) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        if (n-- == 1) return {"()"};
+        string curr = "";
 
-        vector<string> res;
-        auto dfs = [&](auto& self, int O, int C, string s) -> void {
-            if (O == 0 && C == 0) {
-                res.push_back(s + ")");
-                return;
-            }
+        solve(curr, n);
 
-            if (O > 0)
-                self(self, O - 1, C, s + "(");
-
-            if (C >= O)
-                self(self, O, C - 1, s + ")");
-        };
-
-        dfs(dfs, n, n, "(");
-
-        return res;
+        return result;
     }
 };
