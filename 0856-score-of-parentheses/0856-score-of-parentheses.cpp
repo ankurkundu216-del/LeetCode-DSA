@@ -15,19 +15,18 @@ public:
     int scoreOfParentheses(string s) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        stack<int> st; st.push(0); // Base start
-
-        for(char c : s) {
-            if(c=='(') {
-                st.push(0);
+        int ans=0;
+        int depth = 0;
+        for(int i=0; i<s.size(); i++) {
+            if(s[i] == '(') {
+                depth++;
             }else {
-                int v= st.top();
-                st.pop();
-
-                int val = max(2*v,1);
-                st.top() += val;
+                depth--;
+                if(s[i-1] == '(') {
+                    ans += (1<<depth);
+                }
             }
         }
-        return st.top();
+        return ans;
     }
 };
