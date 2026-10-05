@@ -74,6 +74,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0481-magical-string) |
+| [0856-score-of-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -175,6 +176,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -360,6 +362,7 @@
 | [0020-valid-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0856-score-of-parentheses/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
