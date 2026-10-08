@@ -34,6 +34,7 @@
 | [2029-stone-game-ix](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -53,6 +54,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -118,6 +120,7 @@
 | [2029-stone-game-ix](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -251,6 +254,7 @@
 | [0064-minimum-path-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Simulation
