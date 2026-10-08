@@ -17,6 +17,7 @@
 | [0198-house-robber](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [0622-design-circular-queue](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0724-find-pivot-index](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0835-image-overlap) |
@@ -295,6 +296,7 @@
 | [0141-linked-list-cycle](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -370,4 +372,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0022-generate-parentheses/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0622-design-circular-queue/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
