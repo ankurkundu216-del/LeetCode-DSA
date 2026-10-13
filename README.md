@@ -45,6 +45,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Hash Table
@@ -215,6 +216,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@
 | [2600-k-items-with-the-maximum-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
