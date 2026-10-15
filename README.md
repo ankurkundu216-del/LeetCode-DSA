@@ -36,6 +36,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -59,6 +60,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -296,11 +298,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
