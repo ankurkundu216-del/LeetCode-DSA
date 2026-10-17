@@ -45,6 +45,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -65,6 +66,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -220,6 +222,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
