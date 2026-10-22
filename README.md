@@ -54,6 +54,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
