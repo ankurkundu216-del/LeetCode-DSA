@@ -61,6 +61,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0149-max-points-on-a-line) |
+| [0567-permutation-in-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -92,6 +93,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0481-magical-string) |
+| [0567-permutation-in-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -107,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -190,6 +193,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0481-magical-string) |
+| [0567-permutation-in-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Stack
