@@ -5,13 +5,20 @@ public:
     bool containsDuplicate(vector<int>& nums) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
+        // Hash set
+        unordered_set<int> seen;
+        for(int num : nums){
+            if(seen.count(num)>0) return true;
+            seen.insert(num);
+        }return false;
+        /*
         // Sorting
         int n=nums.size();
         sort(nums.begin(), nums.end());
         for(int i=1; i<n; i++){
             if(nums[i]==nums[i-1]) return true;
         }
-        return false;
+        return false;*/
         /* Brute Force Approach
         int n=nums.size();
         for(int i=0; i<n; i++){
