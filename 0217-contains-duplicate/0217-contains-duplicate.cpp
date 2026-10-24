@@ -5,12 +5,23 @@ public:
     bool containsDuplicate(vector<int>& nums) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
+        // Hash Map
+        unordered_map<int, int> seen;
+        for(int num : nums){
+            if(seen[num] >= 1){
+                return true;
+            }
+            seen[num]++;
+        }
+        return false;
+
+        /*
         // Hash set
         unordered_set<int> seen;
         for(int num : nums){
             if(seen.count(num)>0) return true;
             seen.insert(num);
-        }return false;
+        }return false;*/
         /*
         // Sorting
         int n=nums.size();
