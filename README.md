@@ -27,6 +27,7 @@
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -291,6 +292,7 @@
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -376,10 +378,12 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -410,6 +414,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bracket Sequences
