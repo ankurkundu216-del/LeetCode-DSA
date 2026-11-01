@@ -17,6 +17,7 @@
 | [0198-house-robber](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0622-design-circular-queue](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -138,6 +139,7 @@
 | [0149-max-points-on-a-line](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0223-rectangle-area) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1140-stone-game-ii) |
