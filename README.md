@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0622-design-circular-queue](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -140,6 +141,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0812-largest-triangle-area](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1140-stone-game-ii) |
@@ -242,6 +244,7 @@
 | [0015-3sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
