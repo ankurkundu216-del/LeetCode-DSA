@@ -50,6 +50,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -81,6 +82,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -126,6 +128,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -192,6 +196,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -267,6 +272,7 @@
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
