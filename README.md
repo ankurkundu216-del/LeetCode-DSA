@@ -31,6 +31,7 @@
 | [1140-stone-game-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1406-stone-game-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1563-stone-game-v) |
@@ -297,6 +298,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -320,6 +322,7 @@
 | [0835-image-overlap](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -408,12 +411,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -448,6 +453,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
