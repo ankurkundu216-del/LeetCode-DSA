@@ -36,6 +36,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -277,6 +278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0912-sort-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -333,6 +335,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -371,6 +374,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Linked List
 | Problem Name | Difficulty |
