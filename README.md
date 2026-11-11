@@ -173,6 +173,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -319,6 +320,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
