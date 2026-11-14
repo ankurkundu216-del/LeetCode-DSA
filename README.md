@@ -54,6 +54,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -137,6 +138,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -352,6 +354,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Tree
 | Problem Name | Difficulty |
