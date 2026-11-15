@@ -34,6 +34,7 @@
 | [1267-count-servers-that-communicate](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1406-stone-game-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -165,6 +166,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2029-stone-game-ix](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2029-stone-game-ix) |
@@ -206,6 +208,7 @@
 | [1140-stone-game-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -357,6 +360,7 @@
 | [0724-find-pivot-index](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
