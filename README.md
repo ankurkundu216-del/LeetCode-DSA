@@ -128,6 +128,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -213,6 +214,7 @@
 | [1563-stone-game-v](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -237,6 +239,7 @@
 | [0567-permutation-in-string](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ankurkundu216-del/LeetCode-DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
